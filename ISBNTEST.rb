@@ -27,5 +27,4 @@ class TestIsbn <Minitest::Test
 	end
 		
 	
-
 end
